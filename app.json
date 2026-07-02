@@ -1,0 +1,11 @@
+{
+  "project_name": "Recipe Preparation Agent",
+  "domain": "Food & Nutrition",
+  "technology": [
+    "IBM Granite",
+    "LangFlow",
+    "RAG",
+    "Streamlit"
+  ],
+  "version": "1.0"
+}
